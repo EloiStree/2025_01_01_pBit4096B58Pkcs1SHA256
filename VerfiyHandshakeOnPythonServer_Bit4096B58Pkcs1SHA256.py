@@ -1,3 +1,5 @@
+# pip install base64 base58 web3 cryptography --break-system-packages
+
 
 from web3 import Web3
 import os
@@ -163,8 +165,11 @@ print("\n--------------\n")
 
 
 
+"""
+sudo apt update
+sudo apt install libssl1.1
 
-
+"""
 
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.asymmetric import padding
