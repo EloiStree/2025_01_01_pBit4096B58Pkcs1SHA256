@@ -16,3 +16,10 @@ As I need to pass the public key in the URL `?q=`, the XML file is parsed in a B
 
 It's not the best solution, I suppose, but until I find a way to make a signer compatible with MetaMask/Ethereum that runs on all platforms (99% sure), I am a bit stuck here.
 
+You can find a sample using Python to understand what I means and how I am using it with MetaMask sign in.
+
+Find the code for Unity3D in here, Mask Signer:  
+[https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git](https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git)    
+    
+It is going to be used here, first:  
+[https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID](https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID)  
