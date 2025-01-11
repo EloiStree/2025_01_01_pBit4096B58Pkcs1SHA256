@@ -1,5 +1,10 @@
+-
 
-# 2025_01_01_pBit4096B58Pkcs1SHA256
+**PyPI Package: pBit4096B58Pkcs1SHA256**
+
+Unity3D does not handle ECC (Elliptic Curve Cryptography) very well, so you will need to work with RSA, which can be challenging for use with URLs and copy-pasting. This Python package allows you to pack and unpack messages using RSA 4096 with PKCS#1 and SHA-256 store in Base 58 chunk for signing and verifying messages in Unity that are usable on Python Server.
+
+----------------------------------
 
 The RSA format is used in my authentication with MetaMask Coaster because it runs on all platforms in Unity3D.  
 (You should use ECC coaster in Rust and Python for many reasons.)
